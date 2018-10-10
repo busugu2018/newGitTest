@@ -1,0 +1,736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"raise",
+				"raise_amount"
+			],
+			[
+				"p",
+				"pay"
+			],
+			[
+				"em",
+				"emp_1"
+			],
+			[
+				"r",
+				"raise_amount\tstatement"
+			],
+			[
+				"emp",
+				"emp_1\tstatement"
+			],
+			[
+				"po",
+				"power_1"
+			],
+			[
+				"exam",
+				"exam_st_date\tstatement"
+			],
+			[
+				"tupl",
+				"tuple\tclass"
+			],
+			[
+				"li",
+				"list_1"
+			],
+			[
+				"fi",
+				"file_name\tfunction"
+			],
+			[
+				"extension",
+				"extension_1"
+			],
+			[
+				"tu",
+				"tuple_1\tstatement"
+			],
+			[
+				"lis",
+				"list\tclass"
+			],
+			[
+				"list",
+				"list_of_nums\tstatement"
+			],
+			[
+				"in",
+				"input\tfunction"
+			],
+			[
+				"exa",
+				"exam_st_date\tstatement"
+			],
+			[
+				"ver",
+				"version_info\tinstance"
+			],
+			[
+				"reverse",
+				"reverse_name\tfunction"
+			],
+			[
+				"w",
+				"word_1"
+			],
+			[
+				"char",
+				"char_1\tparam"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"max",
+				"max_num\tfunction"
+			],
+			[
+				"len",
+				"length\tstatement"
+			],
+			[
+				"rect",
+				"rect_1\tstatement"
+			],
+			[
+				"str",
+				"str_len\tparam"
+			],
+			[
+				"ma",
+				"max_1\tparam"
+			],
+			[
+				"sum",
+				"sum_of_nums\tfunction"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"ar",
+				"area_1\tfunction"
+			],
+			[
+				"ci",
+				"circle_1\tstatement"
+			],
+			[
+				"nu",
+				"nums_sum_to_zero\tfunction"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"area",
+				"area_circle_1\tfunction"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"are",
+				"area_rect\tfunction"
+			],
+			[
+				"rec",
+				"rect_1\tstatement"
+			],
+			[
+				"cl",
+				"classmethod\tclass"
+			],
+			[
+				"e",
+				"exponent_1"
+			],
+			[
+				"up",
+				"Upper_Case"
+			],
+			[
+				"st",
+				"str1"
+			],
+			[
+				"print",
+				"print_String"
+			],
+			[
+				"pr",
+				"print_String"
+			],
+			[
+				"u",
+				"Upper_Case"
+			],
+			[
+				"calculate_",
+				"calculate_reverse"
+			],
+			[
+				"ex",
+				"exponent_1"
+			],
+			[
+				"c",
+				"calculate"
+			],
+			[
+				"it",
+				"itms2"
+			],
+			[
+				"itm",
+				"itms1"
+			],
+			[
+				"su",
+				"sum_all"
+			],
+			[
+				"f",
+				"f2_l2"
+			],
+			[
+				"user",
+				"user2"
+			],
+			[
+				"Emp",
+				"Emp_1"
+			],
+			[
+				"do",
+				"dol_str"
+			],
+			[
+				"n",
+				"nth_char"
+			],
+			[
+				"s",
+				"str2"
+			],
+			[
+				"d",
+				"dict_1"
+			],
+			[
+				"ch",
+				"chars"
+			],
+			[
+				"l",
+				"list2"
+			],
+			[
+				"fu",
+				"full"
+			],
+			[
+				"Co",
+				"Cob"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"range",
+				"range_num"
+			],
+			[
+				"m",
+				"max_of_three"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"pop",
+				"popped"
+			],
+			[
+				"cou",
+				"courses_2"
+			],
+			[
+				"message",
+				"message_1"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"emp_",
+				"emp_1"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"month",
+				"month_year"
+			],
+			[
+				"las",
+				"Last_name"
+			],
+			[
+				"date",
+				"date1"
+			],
+			[
+				"abs",
+				"abs_val"
+			],
+			[
+				"op",
+				"operational"
+			],
+			[
+				"exam_",
+				"exam_st_date"
+			],
+			[
+				"colo",
+				"color_list"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"com",
+				"comma_sep_num"
+			],
+			[
+				"co",
+				"comma_sep_num"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"fis",
+				"first_name"
+			],
+			[
+				"favorite",
+				"favorites"
+			],
+			[
+				"ls",
+				"list1"
+			],
+			[
+				"fib",
+				"fibonacci_series"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"an",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anacoda lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Anaconda: Disable linting on this file",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"",
+				"A File Icon: Changelog"
+			],
+			[
+				"exit",
+				"Set Syntax: Textile"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Material Theme: Advanced configuration"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 1/examples Bootstrap/practice1-BSTP.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Coding Dojo/Day 1/StephCurry101.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/bou.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson2.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson3.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson4(a).py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson4(b).py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson5.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson7.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T1-Classes and Instances/practice1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Javadev/New1/hello-world.java",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 1/examples HTML/ISUZU/IsuzuMux.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /W3resource.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CupOfCodes/100 Days To py Mastery/day1-4.py",
+		"/Users/nzienguiboussougounziemaraang/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /W3resource-01.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/brouillon_1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/mini_twitter/user/models.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/mini_twitter/tweet/models.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/script.py",
+		"/Users/nzienguiboussougounziemaraang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nzienguiboussougounziemaraang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /lesson6.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-TimBuchalka/lecture-27.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-TimBuchalka/lecture-29.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python - Tim Buchalka/lecture-29.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python - Tim Buchalka/lecture-27.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/level_up_python/function-w3-practice.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/desk-pract.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Kwiz/app.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T3-Class and Static Methods/Class-Method-3-datetime.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T3-Class and Static Methods/Class-Methods2.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T3-Class and Static Methods/Class-Methods1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/bank_app1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T2-Classe Variables/Class-Variable2.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T2-Classe Variables/Class-Variable1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T1-Classes and Instances/simple-class2.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/Python-CoreySchafer /OOP Tutorials/T1-Classes and Instances/simple-class1.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Practice/practice1review.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Practice/untitled",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Practice/box-prtce.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Practice/greg.html",
+		"/Library/Frameworks/Python.framework/Versions/3.6/bin/python3",
+		"/Users/nzienguiboussougounziemaraang/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/level_up_python/kwiz/views/questions.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/level_up_python/kwiz/templates/home.jinja2",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/pythondevelopment/level_up_python/kwiz/kwiz.py",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 3/images html/images.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 3/navbar.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 3/miniwebsite.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 3/images.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 3/image.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2/table.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Practice/practice1.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2/list.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2/section.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2/anchor.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2/form.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 2",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 1/div:span.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 1/paragraph.html",
+		"/Users/nzienguiboussougounziemaraang/Coding Development/Front-End/Udemy 2 /Day 1/index.html",
+		"/Users/nzienguiboussougounziemaraang/Python-CoreySchafer /hackerrank.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/Python /Bo.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/Python /a.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/Python /bou.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/Python /num.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/Python /sting.py",
+		"/Users/nzienguiboussougounziemaraang/pythondevelopment/level_up_python/math_module.py",
+		"/Users/nzienguiboussougounziemaraang/pythondevelopment/level_up_python/Tuples-sets-list.py",
+		"/Users/nzienguiboussougounziemaraang/pythondevelopment/google-python-exercises/basic/fibo",
+		"/Users/nzienguiboussougounziemaraang/pythondevelopment/string.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/a.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/example.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/num.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/hw.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/allo.py",
+		"/print('Hello').py",
+		"/hw.py",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/abc.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/abc.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/dewi/Dewi.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/dewi/Dewi.html",
+		"/Users/nzienguiboussougounziemaraang/git_ACM/README.md",
+		"/Users/nzienguiboussougounziemaraang/git_ACM/untitled",
+		"/Users/nzienguiboussougounziemaraang/Desktop/snake",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/nodelle/images/demo/nodelle.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/nodelle/images/demo/nodelle.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/acme 2/AcmeHome.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine3.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine3.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/acme 2/AcmeHome.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/acme 2/AcmeHome1.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/acme 2/untitled.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuDmax.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuContact.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuContact.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples CSS/IGCA.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/sarah.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/maman.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/kynie1.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples CSS/exampleCSS3.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples CSS/exampleCSS3.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuMain.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuMain.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuDmax.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuMux.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/ISUZU/IsuzuMux.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/Isuzu.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/Isuzu.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine1.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine1.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine2.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/routine2.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples Bootstrap/test.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/JS/list.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/180 websites/jd3.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/180 websites/jd3.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/180 websites/jd1.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/180 websites/jd1.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/JS/script.js",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/JS/script.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/JS/script.html",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples Bootstrap/startbootstrap-new-age-gh-pages/js/new-age.min.js",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples Bootstrap/startbootstrap-new-age-gh-pages/css/new-age.css",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples Bootstrap/startbootstrap-new-age-gh-pages/gulpfile.js",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples Bootstrap/startbootstrap-new-age-gh-pages/lib/bootstrap/js/bootstrap.js",
+		"/Users/nzienguiboussougounziemaraang/Desktop/udemy bootcamp/examples HTML/practiceHTML:CSS.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/bou.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
